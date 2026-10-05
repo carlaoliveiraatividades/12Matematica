@@ -1,0 +1,8 @@
+{
+  "name": "MATHVERSE — Explora. Experimenta. Aprende.",
+  "description": "Plataforma interativa de aprendizagem de Matemática do 12.º ano onde escolhes o que queres aprender e como queres que te expliquem (6, 10, 14, 18 anos ou Adulto).",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
